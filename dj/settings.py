@@ -29,6 +29,8 @@ SESSION_HOST_SECURE = True
 CSRF_COOKIE_SECURE = True
 
 ALLOWED_HOSTS = [
+    '10.0.5.70'
+    '127.0.0.1'
     'T0mka.pythonanywhere.com'
 ]
 
