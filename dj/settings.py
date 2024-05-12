@@ -32,12 +32,7 @@ ALLOWED_HOSTS = [
     '95.24.24.153',
     '10.0.5.70',
     '127.0.0.1',
-    'T0mka.pythonanywhere.com',
-    't0mka.pythonanywhere.com',
-    'danilin.pythonanywhere.com',
-    'Danilin.pythonanywhere.com',
-    'danilin.pythonanywhere.com',
-    'https://danilin.pythonanywhere.com/',
+    'danilin.pythonanywhere.com'
 ]
 
 INTERNAL_IPS = [
