@@ -34,6 +34,8 @@ ALLOWED_HOSTS = [
     '127.0.0.1',
     'T0mka.pythonanywhere.com',
     't0mka.pythonanywhere.com',
+    'danilin.pythonanywhere.com',
+    'Danilin.pythonanywhere.com',
 ]
 
 INTERNAL_IPS = [
