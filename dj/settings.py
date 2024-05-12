@@ -37,6 +37,7 @@ ALLOWED_HOSTS = [
     'danilin.pythonanywhere.com',
     'Danilin.pythonanywhere.com',
     'danilin.pythonanywhere.com',
+    'https://danilin.pythonanywhere.com/',
 ]
 
 INTERNAL_IPS = [
