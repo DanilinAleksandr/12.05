@@ -29,10 +29,7 @@ SESSION_HOST_SECURE = True
 CSRF_COOKIE_SECURE = True
 
 ALLOWED_HOSTS = [
-    '95.24.24.153',
-    '10.0.5.70',
-    '127.0.0.1',
-    'danilin.pythonanywhere.com'
+    'danilin.pythonanywhere.com',
 ]
 
 INTERNAL_IPS = [
